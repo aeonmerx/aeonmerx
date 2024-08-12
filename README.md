@@ -22,7 +22,6 @@ Hola, soy William Andrés Rativa!
 🌱 Aprendo continuamente sobre Backend, Bases de Datos, IA, y más.
 🌟 Principales lenguajes: Java, JavaScript, TypeScript.
 🚩 Interesado en oportunidades en Desarrollo Full Stack o Backend, QA, y DevOps.
-🤔 Actualmente estoy abierto a: <b>Oportunidades laborales</b>, este es <a href="https://docs.google.com/document/d/1FzR84Yvd3Uvdje9aBcON20Hx_yHGFjRS/edit?usp=sharing&ouid=115502817976626646516&rtpof=true&sd=true" target="_blank">MI CV.</a>
 </pre>
 <hr>
 
