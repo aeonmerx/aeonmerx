@@ -18,7 +18,7 @@ Hola, soy William Andrés Rativa!
 💻 Soy Tecnólogo en Análisis y Desarrollo de Software, actualmente voy en 9 semestre de Ing de sistemas.
 🚩 Soy desarrollador Full Stack con experiencia en pruebas automatizadas , QA, SCRUM.
 📚 Tengo experiencia en diversos bootcamps de tecnología y desarrollo.
-📝 Tengo un fuerte interés en Backend, Frontend, IA y Seguridad Informática.
+📝 Manejo las vertientes de Backend, Frontend, múltiples lenguajes , librerías y Frameworks, IA y Seguridad Informática.
 🌱 Aprendo continuamente sobre Backend, Bases de Datos, IA, y más.
 🌟 Principales lenguajes: Java, JavaScript, TypeScript.
 🚩 Interesado en oportunidades en Desarrollo Full Stack o Backend, QA, y DevOps.
