@@ -71,7 +71,6 @@
 🖥️ Sistemas Operativos y Entornos
 <p>
     <a href="https://github.com/aeonmerx"><img alt="Ubuntu" src="https://skillicons.dev/icons?i=ubuntu"></a>
-    <a href="https://github.com/aeonmerx"><img alt="CentOS" src="https://skillicons.dev/icons?i=centos7"></a>
     <a href="https://github.com/aeonmerx"><img alt="Kali Linux" src="https://skillicons.dev/icons?i=kali"></a>
     <a href="https://github.com/aeonmerx"><img alt="Windows" src="https://skillicons.dev/icons?i=windows"></a>
 </p>
@@ -81,6 +80,5 @@
     <a href="https://github.com/aeonmerx"><img alt="Bash" src="https://skillicons.dev/icons?i=bash"></a>
     <a href="https://github.com/aeonmerx"><img alt="CMD" src="https://skillicons.dev/icons?i=cmd"></a>
     <a href="https://github.com/aeonmerx"><img alt="CI/CD" src="https://skillicons.dev/icons?i=ci"></a>
-    <a href="https://github.com/aeonmerx"><img alt="API" src="https://skillicons.dev/icons?i=api"></a>
-    <a href="https://github.com/aeonmerx"><img alt="TDD" src="https://skillicons.dev/icons?i=tdd"></a>
+
 </p>
