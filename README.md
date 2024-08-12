@@ -31,9 +31,9 @@
 <p>
     <a href="https://github.com/aeonmerx"><img alt="Java" src="https://skillicons.dev/icons?i=java"></a>
     <a href="https://github.com/aeonmerx"><img alt="JavaScript" src="https://skillicons.dev/icons?i=js"></a>
-    <a href="https://github.com/aeonmerx"><img alt="TypeScript" src="https://skillicons.dev/icons?i=ts"></a>
-    <a href="https://github.com/aeonmerx"><img alt="C" src="https://skillicons.dev/icons?i=c"></a>
-    <a href="https://github.com/aeonmerx"><img alt="C#" src="https://skillicons.dev/icons?i=csharp"></a>
+    <a href="https://github.com/aeonmerx"><img alt="TypeScript" src="https://skillicons.dev/icons?i=typescript"></a>
+    <a href="https://github.com/aeonmerx"><img alt="C" src="https://th.bing.com/th/id/OIP.ZqyNd_qvUzmXPRZkufnoOwHaHa?rs=1&pid=ImgDetMain"></a>
+    <a href="https://github.com/aeonmerx"><img alt="C#" src="https://th.bing.com/th/id/R.bd49e333258a1beb7c201a2dd77c4d5e?rik=fn2BttfNqEOfcA&pid=ImgRaw&r=0"></a>
     <a href="https://github.com/aeonmerx"><img alt="Ruby" src="https://skillicons.dev/icons?i=ruby"></a>
     <a href="https://github.com/aeonmerx"><img alt="Python" src="https://skillicons.dev/icons?i=python"></a>
     <a href="https://github.com/aeonmerx"><img alt="PHP" src="https://skillicons.dev/icons?i=php"></a>
