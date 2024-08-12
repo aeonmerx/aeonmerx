@@ -15,7 +15,7 @@ Hola, soy William Andrés Rativa!
 <picture> <img align="right" src="https://camo.githubusercontent.com/749c01e275a5a59ba7ae192e32a099a09f1545f182483478567f18ff2932a138/68747470733a2f2f632e74656e6f722e636f6d2f474e37334d4b4261775a5941414141692f627573792d637574652e676966" width="250px"></picture>
 
 <pre>
-💻 Soy un desarrollador Full Stack autodidacta con experiencia en pruebas automatizadas y QA.
+💻 Soy Tecnólogo en Análisis y Desarrollo de Software, actualmente voy en 9 semestre de Ing de sistemas, soy un desarrollador Full Stack con experiencia en pruebas automatizadas y QA.
 📚 Tengo experiencia en diversos bootcamps de tecnología y desarrollo.
 📝 Tengo un fuerte interés en Backend, Frontend, IA y Seguridad Informática.
 🌱 Aprendo continuamente sobre Backend, Bases de Datos, IA, y más.
