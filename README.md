@@ -63,7 +63,6 @@
     <a href="https://github.com/aeonmerx"><img alt="Docker" src="https://skillicons.dev/icons?i=docker"></a>
     <a href="https://github.com/aeonmerx"><img alt="Kubernetes" src="https://skillicons.dev/icons?i=kubernetes"></a>
     <a href="https://github.com/aeonmerx"><img alt="Jenkins" src="https://skillicons.dev/icons?i=jenkins"></a>
-    <a href="https://github.com/aeonmerx"><img alt="JMeter" src="https://skillicons.dev/icons?i=jmeter"></a>
     <a href="https://github.com/aeonmerx"><img alt="Postman" src="https://skillicons.dev/icons?i=postman"></a>
     <a href="https://github.com/aeonmerx"><img alt="Git" src="https://skillicons.dev/icons?i=git"></a>
     <a href="https://github.com/aeonmerx"><img alt="Visual Studio Code" src="https://skillicons.dev/icons?i=vscode"></a>
@@ -72,7 +71,7 @@
 🖥️ Sistemas Operativos y Entornos
 <p>
     <a href="https://github.com/aeonmerx"><img alt="Ubuntu" src="https://skillicons.dev/icons?i=ubuntu"></a>
-    <a href="https://github.com/aeonmerx"><img alt="CentOS" src="https://skillicons.dev/icons?i=centos"></a>
+    <a href="https://github.com/aeonmerx"><img alt="CentOS" src="https://skillicons.dev/icons?i=centos7"></a>
     <a href="https://github.com/aeonmerx"><img alt="Kali Linux" src="https://skillicons.dev/icons?i=kali"></a>
     <a href="https://github.com/aeonmerx"><img alt="Windows" src="https://skillicons.dev/icons?i=windows"></a>
 </p>
