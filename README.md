@@ -26,7 +26,7 @@
 <hr>
 🤝 Conéctate conmigo
 <p align="center">
-	<a href="mailto:tuemail@example.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
+	<a href="mailto:aeon.merx@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
 	<a href="https://www.linkedin.com/in/william-andres-rativa/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
 	<a href="https://github.com/aeonmerx"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
 </p>
@@ -43,6 +43,7 @@
     <a href="https://github.com/aeonmerx"><img alt="PHP" src="https://skillicons.dev/icons?i=php"></a>
     <a href="https://github.com/aeonmerx"><img alt="Go" src="https://skillicons.dev/icons?i=go"></a>
     <a href="https://github.com/aeonmerx"><img alt="Swift" src="https://skillicons.dev/icons?i=swift"></a>
+	    <a href="https://github.com/aeonmerx"><img alt="Asterisk" src="https://skillicons.dev/icons?i=asterisk"></a>
 </p>
 🧰 Frameworks y Librerías
 <p>
