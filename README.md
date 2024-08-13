@@ -90,9 +90,9 @@
     <a href="https://github.com/aeonmerx"><img alt="Bash" src="https://skillicons.dev/icons?i=bash"></a>
     <a href="https://github.com/aeonmerx"><img alt="CMD" src="https://skillicons.dev/icons?i=cmd"></a>
     <a href="https://github.com/aeonmerx"><img alt="CI/CD" src="https://skillicons.dev/icons?i=ci"></a>
+
+</p>
 He creado una academia digital totalmente gratis, en ella puedes acceder a todo mi portafolio:
 <a href="http://aeonmerx.eastus.cloudapp.azure.com/">Pagina Web Oficial</a>
-</p>
-
 </body>
 </html>
