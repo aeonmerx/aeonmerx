@@ -77,7 +77,7 @@
     <a href="https://github.com/aeonmerx"><img alt="Git" src="https://skillicons.dev/icons?i=git"></a>
     <a href="https://github.com/aeonmerx"><img alt="Visual Studio Code" src="https://skillicons.dev/icons?i=vscode"></a>
     <a href="https://github.com/aeonmerx"><img alt="Figma" src="https://skillicons.dev/icons?i=figma"></a>
-	 <a href="https://github.com/aeonmerx"><img alt="Issabel" src="https://skillicons.dev/icons?i=issabel"></a>
+
 </p>
 🖥️ Sistemas Operativos y Entornos
 <p>
