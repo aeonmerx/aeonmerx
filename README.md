@@ -43,7 +43,7 @@
     <a href="https://github.com/aeonmerx"><img alt="PHP" src="https://skillicons.dev/icons?i=php"></a>
     <a href="https://github.com/aeonmerx"><img alt="Go" src="https://skillicons.dev/icons?i=go"></a>
     <a href="https://github.com/aeonmerx"><img alt="Swift" src="https://skillicons.dev/icons?i=swift"></a>
-	    <a href="https://github.com/aeonmerx"><img alt="Asterisk" src="https://skillicons.dev/icons?i=asterisk"></a>
+	    <a href="https://github.com/aeonmerx"><img alt="Kotlin" src="https://skillicons.dev/icons?i=kotlin"></a>
 </p>
 🧰 Frameworks y Librerías
 <p>
@@ -57,6 +57,7 @@
 		  <a href="https://github.com/aeonmerx"><img alt="Spring" src="https://skillicons.dev/icons?i=spring"></a>
 		  <a href="https://github.com/aeonmerx"><img alt="Django" src="https://skillicons.dev/icons?i=django"></a>
 			  <a href="https://github.com/aeonmerx"><img alt="Flask" src="https://skillicons.dev/icons?i=flask"></a>
+	  <a href="https://github.com/aeonmerx"><img alt="Ionic" src="https://skillicons.dev/icons?i=ionic"></a>
 </p>
 🗄️ Bases de Datos y Hosting en la Nube
 <p>
