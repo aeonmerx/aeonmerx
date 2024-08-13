@@ -57,7 +57,7 @@
 		  <a href="https://github.com/aeonmerx"><img alt="Spring" src="https://skillicons.dev/icons?i=spring"></a>
 		  <a href="https://github.com/aeonmerx"><img alt="Django" src="https://skillicons.dev/icons?i=django"></a>
 			  <a href="https://github.com/aeonmerx"><img alt="Flask" src="https://skillicons.dev/icons?i=flask"></a>
-	  <a href="https://github.com/aeonmerx"><img alt="Ionic" src="https://skillicons.dev/icons?i=ionic"></a>
+	  <a href="https://github.com/aeonmerx"><img alt="Unity" src="https://skillicons.dev/icons?i=unity"></a>
 </p>
 🗄️ Bases de Datos y Hosting en la Nube
 <p>
