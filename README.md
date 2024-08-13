@@ -53,6 +53,7 @@
     <a href="https://github.com/aeonmerx"><img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"></a>
     <a href="https://github.com/aeonmerx"><img alt="Tailwind" src="https://skillicons.dev/icons?i=tailwind"></a>
 	  <a href="https://github.com/aeonmerx"><img alt="Laravel" src="https://skillicons.dev/icons?i=laravel"></a>
+		  <a href="https://github.com/aeonmerx"><img alt="Spring" src="https://skillicons.dev/icons?i=spring"></a>
 </p>
 🗄️ Bases de Datos y Hosting en la Nube
 <p>
