@@ -15,18 +15,7 @@
 </p>
 <hr>
 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"> Sobre mí
- <div id="lottie-container" style="width: 300px; height: 300px;"></div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.9.6/lottie.min.js"></script>
-    <script>
-        // Cargar la animación en el contenedor
-        lottie.loadAnimation({
-            container: document.getElementById('lottie-container'), // ID del contenedor
-            renderer: 'svg',
-            loop: true,
-            autoplay: true,
-            path: 'https://lottie.host/cadb9cd2-2d48-413f-b915-a8f86dff39f1/WEP66BiDJJ.json' // Ruta al archivo Lottie
-        });
-    </script>
+
 <p>
 🌟 Soy un <b>Desarrollador Full Stack</b> con amplia experiencia en <b>backend</b>, <b>frontend</b>, <b>DevOps</b> y <b>seguridad informática</b>.  
 💡 Experto en <b>IA</b>, <b>pruebas automatizadas</b> y desarrollo de <b>aplicaciones móviles y web</b>.  
