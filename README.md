@@ -87,6 +87,6 @@
     <a href="https://github.com/aeonmerx"><img alt="CI/CD" src="https://skillicons.dev/icons?i=ci"></a>
 
 </p>
-
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script><lottie-player src="https://lottie.host/cadb9cd2-2d48-413f-b915-a8f86dff39f1/WEP66BiDJJ.json" background="##FFFFFF" speed="1" style="width: 300px; height: 300px" loop controls autoplay direction="1" mode="normal"></lottie-player>
 </body>
 </html>
