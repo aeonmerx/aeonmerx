@@ -10,7 +10,7 @@
 <hr>
 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"> Sobre mí
 <p align="left">
-<img align="right" src="https://camo.githubusercontent.com/749c01e275a5a59ba7ae192e32a099a09f1545f182483478567f18ff2932a138/68747470733a2f2f632e74656e6f722e636f6d2f474e37334d4b4261775a5941414141692f627573792d637574652e676966" width="250px">
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script><lottie-player src="https://lottie.host/cadb9cd2-2d48-413f-b915-a8f86dff39f1/WEP66BiDJJ.json" background="##FFFFFF" speed="1" style="width: 300px; height: 300px" loop autoplay direction="1" mode="normal"></lottie-player>
 </p>
 <p>
 🌟 Soy un <b>Desarrollador Full Stack</b> con amplia experiencia en <b>backend</b>, <b>frontend</b>, <b>DevOps</b> y <b>seguridad informática</b>.  
