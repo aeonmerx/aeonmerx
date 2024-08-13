@@ -87,5 +87,7 @@
     <a href="https://github.com/aeonmerx"><img alt="CI/CD" src="https://skillicons.dev/icons?i=ci"></a>
 
 </p>
+He creado una academia digital totalmente gratis, en ella puedes acceder a todo mi portafolio:
+<a src="http://aeonmerx.eastus.cloudapp.azure.com/">Pagina Web Oficial</a>
 </body>
 </html>
